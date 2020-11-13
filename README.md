@@ -40,6 +40,15 @@
 
 ## Face & Eye Detect
 
+### Sample
+
+<table>
+<tr align='center'>
+<td><img src="sample_box/male.jpg" alt="Male.jpg" width="460" height="500"/></td>
+<td><img src="sample_box/female.jpg" alt="Male.jpg" width="460" height="500"/></td>
+</tr>
+<table>
+
 ### Detection from Image
 
 - For only face detection
