@@ -105,4 +105,4 @@ class Face():
                 eyes = self.eye(roi_gray)
                 for (ex, ey, ew, eh) in eyes:
                     cv2.rectangle(roi_color, (ex, ey),
-                                  (ex+ew, ey+eh), (127, 0, 255), 4)
+                                  (ex + ew, ey + eh), (127, 0, 255), 4)
